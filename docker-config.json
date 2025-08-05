@@ -1,0 +1,11 @@
+{
+    "auths": {
+            "https://index.docker.io/v1/": {
+                    "auth": "<docker token>=="
+            }
+    }
+}
+
+
+
+
